@@ -1,2 +1,11 @@
-# microfinance-simple-interest
-Open-source microfinance sample: a Simple Interest Calculator (Bash). Includes docs (README, Code of Conduct, Contributing) and Apache-2.0 license.
+# Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+## Input
+- p, principal amount
+- t, time period in years
+- r, annual rate of interest
+
+## Output
+- simple interest = p * t * r
